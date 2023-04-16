@@ -1,1 +1,1 @@
-# PRO-C160-Project-Solution
+# PRO-C160-Project-Template
